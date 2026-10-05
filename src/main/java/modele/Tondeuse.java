@@ -116,7 +116,7 @@ public class Tondeuse {
 			x = x - 1;
 			break;
 		case SOUTH:
-			y = y - 2;
+			y = y - 1;
 			break;
 		default:
 			break;
